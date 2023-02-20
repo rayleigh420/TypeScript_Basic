@@ -1,4 +1,4 @@
-const total = (...rest: number[]) => {
+const total = (...rest) => {
     console.log("Type: ", typeof rest)
     console.log("Rest: ", rest)
 }
