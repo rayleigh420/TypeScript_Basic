@@ -1,8 +1,9 @@
 {
     "compilerOptions": {
-        "target": "ES2017",
+        "target": "ES2022",
         "outDir": "build",
-        "module": "commonjs"
+        // "module": "commonjs",
+        "strictNullChecks": true
     },
     "include": [
         "src/**/*"
