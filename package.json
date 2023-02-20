@@ -1,7 +1,7 @@
 {
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsnd --respawn ./src/lesson7/index.ts",
+    "dev": "tsnd --respawn ./src/lesson8/index.ts",
     "build": "tsc -p ."
   },
   "devDependencies": {
