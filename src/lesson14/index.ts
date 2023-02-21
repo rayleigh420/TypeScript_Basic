@@ -13,3 +13,7 @@ console.log(mixed)
 
 // Khong the gan sai type cho tuple
 // myTuple[2] = 'Duy'
+
+// Optional trong tuple phan tu optional phai o cuoi
+const opTuple: [string, number, boolean, number?] = ['Hello', 69, true]
+console.log(opTuple)
